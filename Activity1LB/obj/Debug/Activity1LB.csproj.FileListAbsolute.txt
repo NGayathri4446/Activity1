@@ -1,0 +1,6 @@
+C:\Users\DANTE VALE\Desktop\LTTs C#\Activities\Activity1LB\bin\Debug\Activity1LB.dll
+C:\Users\DANTE VALE\Desktop\LTTs C#\Activities\Activity1LB\bin\Debug\Activity1LB.pdb
+C:\Users\DANTE VALE\Desktop\LTTs C#\Activities\Activity1LB\obj\Debug\Activity1LB.csproj.AssemblyReference.cache
+C:\Users\DANTE VALE\Desktop\LTTs C#\Activities\Activity1LB\obj\Debug\Activity1LB.csproj.CoreCompileInputs.cache
+C:\Users\DANTE VALE\Desktop\LTTs C#\Activities\Activity1LB\obj\Debug\Activity1LB.dll
+C:\Users\DANTE VALE\Desktop\LTTs C#\Activities\Activity1LB\obj\Debug\Activity1LB.pdb
